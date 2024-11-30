@@ -2,3 +2,6 @@
 **/.DS_Store
 **/node_modules
 **/model_weights
+bluedot-exercises/safety
+bluedot-exercises/robustness
+__pycache__/
